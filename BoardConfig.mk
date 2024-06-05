@@ -26,6 +26,3 @@ TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Inherit from the proprietary version
 include vendor/xiaomi/munch/BoardConfigVendor.mk
-
-# Firmware
-include vendor/xiaomi/munch-firmware/BoardConfigVendor.mk
